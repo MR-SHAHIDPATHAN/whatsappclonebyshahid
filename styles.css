@@ -292,11 +292,11 @@ footer{
     bottom: 0;
     width: 100%;
     text-align: center;
-    padding: 0.25rem;
+    padding: 0.35rem;
     background-color: rgba(0,0,0,0.1);
 }
 a {
     text-decoration: none;
-    font-size: 12px;
+    font-size: 16px;
     color: #666;
 }
